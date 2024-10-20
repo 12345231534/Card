@@ -61,7 +61,7 @@ body {
   visibility: visible;
 }
 .present-box.open .present .img-wrap {
-  margin-top: 80px;
+  margin-top: 100px;
   opacity: 1;
   transition: transform 600ms 800ms, opacity 800ms 200ms;
   transform: translateZ(0px);
